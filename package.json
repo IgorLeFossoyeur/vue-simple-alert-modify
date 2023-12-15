@@ -1,5 +1,5 @@
 {
-  "name": "vue-simple-alert",
+  "name": "vue-simple-alert-modify",
   "version": "1.1.2",
   "description": "Simple alert(), confirm(), prompt() for Vue.js, using sweetalert2.",
   "main": "./lib/index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/constkhi/vue-simple-alert.git"
+    "url": "git+https://github.com/IgorLeFossoyeur/vue-simple-alert-modify.git"
   },
   "keywords": [
     "alert",
@@ -39,9 +39,9 @@
   "author": "constkhi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/constkhi/vue-simple-alert/issues"
+    "url": "https://github.com/IgorLeFossoyeur/vue-simple-alert-modify/issues"
   },
-  "homepage": "https://github.com/constkhi/vue-simple-alert#readme",
+  "homepage": "https://github.com/IgorLeFossoyeur/vue-simple-alert-modify#readme",
   "files": [
     "/lib"
   ]
